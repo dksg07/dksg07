@@ -108,3 +108,15 @@ cat README.md
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=Welcome+to+my+world!;Let's+code+the+future!;AI+ML+Robotics+Design+DSA" alt="Typing SVG" />
 </p>
+
+
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
