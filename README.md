@@ -49,16 +49,14 @@
 ## 🚀 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dikesh-patel" target="_blank">
+  <a href="https://www.linkedin.com/in/dksg07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:dikesh.patel.official@gmail.com" target="_blank">
+  <a href="mailto:thedikesh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.behance.net/" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
-  </a>
-  <a href="https://github.com/DikeshPatel" target="_blank">
+ 
+  <a href="https://github.com/dksg07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
