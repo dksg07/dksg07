@@ -59,6 +59,9 @@
   <a href="https://github.com/dksg07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://instagram.com/dksg07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -71,6 +74,30 @@
 </p>
 
 ---
+# Hi there! 👋
+
+Welcome to my GitHub profile! Here are some cool stats, trophies, and contribution animations! 🚀✨
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dksg07&theme=github&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dksg07&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
+
+---
+
+## 💻 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksg07&layout=compact&theme=github_dark&langs_count=6)](https://github.com/dksg07?tab=repositories)
+
+---
+
+
+⭐️ From [dksg07](https://github.com/dksg07)
 
 ## ⚡ Fun Hack: Terminal Access to My Repos! 
 
