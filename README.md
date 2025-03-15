@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Dikesh Patel!
 
-<!--
-**dksg07/dksg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 **About Me**
+- 🎓 **BTech Honours Student** at *UTD, CSVTU Bhilai*  
+- 🖥️ **Branch**: Computer Science & Engineering (Artificial Intelligence)  
+- 🌱 **Currently Learning**:  
+  - 🐍 Python for Data Science & AI/ML  
+  - 💻 C++ for Data Structures & Algorithms  
+  - 🎨 3D Modelling & Graphics Designing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ **Interested Technical Skills**
+- 💡 AI & Machine Learning  
+- 🔧 Data Structures & Algorithms (C++)  
+- 📊 Python for Data Science  
+- ✨ 3D Modelling & Motion Graphics  
+
+---
+
+### 🌱 **Interests**
+- 🤖 Exploring Artificial Intelligence  
+- 🎨 Creating 3D Visuals & Graphics  
+- 🛠️ Designing Budget-friendly Tech Projects  
+
+---
+
+### 🚀 **Goals**
+- 🌐 Build impactful AI-driven projects  
+- 📚 Master advanced Data Structures & Algorithms  
+- 🎥 Create visually engaging educational content  
+
+---
+
+### 🤝 **Get in Touch**
+- 📬 **Email**:thedikesh@gmail.com
+- 💼 **LinkedIn**:www.linkedin.com/in/dksg07
