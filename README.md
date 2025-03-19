@@ -41,7 +41,6 @@
 - 🔬 Researching AI/ML algorithms for Robotics
 - 💻 Building DSA mastery (Codeforces, Leetcode, etc.)
 - 🎨 Designing futuristic UIs in Figma
-- ⚙️ Automating life with Python scripts
 ```
 
 ---
