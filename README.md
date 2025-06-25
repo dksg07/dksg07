@@ -1,4 +1,5 @@
-# ✦⚙️ Dikesh Patel — _Code. Create. Conquer._ ⚙️✦
+# ✦⚙️ Dikesh Patel — _Code. Create. Conquer._ ⚙️✦  
+![Profile Views](https://komarev.com/ghpvc/?username=dksg07&color=blue&style=flat-square)
 
 ```bash
 > Initializing Profile...
