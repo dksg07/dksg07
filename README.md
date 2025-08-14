@@ -1,137 +1,45 @@
-# ✦⚙️ Dikesh Patel — _Code. Create. Conquer._ ⚙️✦  
-![Profile Views](https://komarev.com/ghpvc/?username=dksg07&color=blue&style=flat-square)
+# Dikesh Patel — AI/ML • Robotics • Design • Code
 
-```bash
-> Initializing Profile...
-> Connecting to Dikesh Patel's brain... ██████████ 100%
-> Loading AI, ML, Robotics, Design & Code arsenal... ██████████ 100%
-> Ready. Welcome to my world, human! 💻🤖
-```
+> *"Code like a Hacker. Think like a Scientist. Design like an Artist."*
+
+---
+
+## 👤 About Me
+I’m a Computer Science & Engineering (AI) student at **CSVTU**, passionate about building solutions at the intersection of **AI/ML, Robotics, Algorithms, and Design**.
+
+- **Name:** Dikesh Patel  
+- **Degree:** B.Tech CSE (AI)  
+- **Focus Areas:** AI/ML, Data Science, Robotics, DSA, UI/UX  
+- **Tools:** C++, Python, Figma, Photoshop, ROS, Git
+
+---
+
+## 🛠 Tech Stack
+| Programming | AI/ML | Robotics | Design | Tools |
+|-------------|-------|----------|--------|-------|
+| C++, C, Python, Shell | Pandas, NumPy | ROS, Arduino, IoT | Figma, Photoshop, Illustrator | GitHub, Linux, VSCode |
+
+---
+
+## 📊 Progress & Stats
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/44/444646fa7910ec7b87ee7ba9e9f3b051_w200.gif" width="250" alt="Hacker GIF">
+  <img src="https://github-readme-stats.vercel.app/api?username=dksg07&show_icons=true&theme=github_dark&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dksg07&theme=github_dark&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dksg07&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%">
 </p>
 
 ---
 
-## 👾 Who am I?
-
-> "Blending **machines with creativity**, I live at the crossroads of **AI/ML, Data Science, Design, and Algorithms** — currently decoding the universe at **University Teaching Department, CSVTU (B.Tech CSE-AI)**."
-
-🔹 **Name:** Dikesh Patel  
-🔹 **Degree:** B.Tech in CSE (AI)  
-🔹 **Interests:** Robotics, AI/ML, DSA, Data Science, Graphics Design, UI/UX  
-🔹 **Designer Mode:** Figma, Photoshop, Illustrator  
-🔹 **Developer Mode:** C++, Python, Shell scripting, Git  
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dksg07)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thedikesh@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/dksg07)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dksg07)
 
 ---
 
-## ⚙️ Tech Stack & Arsenal
-
-| Programming | AI/ML & DS | Robotics | Graphics Design | Tools & Platforms |
-|:-----------:|:----------:|:--------:|:---------------:|:-----------------:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | 🤖 Arduino, IOT | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ML-based bots | ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-
----
-
-## 🧠 Currently Hacking On
-
-```yaml
-- 🔬 Researching AI/ML algorithms for Robotics
-- 💻 Building DSA mastery (Codeforces, Leetcode, etc.)
-- 🎨 Designing futuristic UIs in Figma
-```
-
----
-
-## 🚀 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dksg07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:thedikesh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
- 
-  <a href="https://github.com/dksg07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://instagram.com/dksg07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikeshPatel&show_icons=true&theme=github_dark&hide_border=true" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikeshPatel&theme=tokyonight&hide_border=true" width="47%">
-</p>
-
----
-# Hi there! 👋
-
-Welcome to my GitHub profile! Here are some cool stats, trophies, and contribution animations! 🚀✨
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dksg07&theme=github&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dksg07&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
-
----
-
-## 💻 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksg07&layout=compact&theme=github_dark&langs_count=6)](https://github.com/dksg07?tab=repositories)
-
----
-
-
-⭐️ From [dksg07](https://github.com/dksg07)
-
-## ⚡ Fun Hack: Terminal Access to My Repos! 
-
-```bash
-git clone https://github.com/DikeshPatel
-cd DikeshPatel
-cat README.md
-```
-
----
-
-## 🔮 Quotes I Live By:
-
-> “The best way to predict the future is to invent it.” — Alan Kay  
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/26gsgIkGvDLzA5l6c/giphy.gif?cid=790b76118b32f871e4fbb04c2129e079be8b810e16a3a836&rid=giphy.gif&ct=g" width="200" alt="Robot GIF">
-</p>
-
----
-
-## 👾 Wanna Hack the Matrix Together? Let's Build the Future! 💥
-
----
-
-# ⚙️🧠 "Code like a Hacker. Think like a Scientist. Design like an Artist." — Dikesh Patel
-
----
-
-## 🛸 Stay tuned... More experiments loading soon!
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=435&lines=Welcome+to+my+world!;Let's+code+the+future!;AI+ML+Robotics+Design+DSA" alt="Typing SVG" />
-</p>
-
-
+⭐ *Always open for collaborations on AI/ML, Robotics, and Design projects.*
